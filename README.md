@@ -1,2 +1,2 @@
-# Books-recommendation
-Created with CodeSandbox
+# book-recommendations
+implementing basic tabbingiwht react - super simple, beginners' project
